@@ -7,7 +7,7 @@
                 satellite.style.cssText = `
                     top: ${Math.random() * 100}%;
                     left: ${Math.random() * 100}%;
-                    animation-delay: ${Math.random() * -70}s;
+                    animation-delay: ${Math.random() * -40}s;
                     animation-duration: ${15 + Math.random() * 55}s;
                 `;
                 animationContainer.appendChild(satellite);
